@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ClaudiaN8
 - 👀 I’m interested in PHP, Wordpress, Javascript.
 - 🌱 I’m currently learning Wordpress.
-- 💞️ I’m looking to collaborate and learn anything that involves PHP, Wordpress or Javascript.
+- 🤝 I’m looking to collaborate and learn anything that involves PHP, Wordpress or Javascript.
 - 📫 You can reach me on my email address: cniculescu1980@yahoo.com. Thank you!
 
 <!---
